@@ -83,3 +83,4 @@ b. For user:
 12. Delete/Update Others' Posts
 -> No user can edit others' posts/comments in any way.
 ![delete-update-others'](https://user-images.githubusercontent.com/80682984/178948359-058dda69-32ce-4b5a-a64c-ed697de3f741.png)
+
